@@ -109,4 +109,4 @@ async def unmute(ctx, member : discord.Member, *, reason = "Aucune raison n'a é
 
   
 
-bot.run("OTE2NzU4MDYwODc2MzA4NTEx.Yauzeg.vrENV7ypE_G9DQHrdZy6gNytCAU")
+bot.run("TOKEN")
