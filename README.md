@@ -8,6 +8,7 @@ https://www.python.org/
 Importation : 
 
 pip install discord
+
 pip installe random
 
 Token du bot : 
